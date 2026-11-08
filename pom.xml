@@ -10,4 +10,5 @@
         <maven.compiler.release>24</maven.compiler.release>
         <exec.mainClass>final204.ailegalsystem.AILegalSystem</exec.mainClass>
     </properties>
+    <name>LegalSystem</name>
 </project>
